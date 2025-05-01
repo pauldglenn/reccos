@@ -4,10 +4,28 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>reccos.xcscheme_^#shared#^_</key>
+		<key>reccos-ios.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>C85C6CC42DC04F6900E26834</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C85C6CD12DC04F6A00E26834</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C85C6CDB2DC04F6A00E26834</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

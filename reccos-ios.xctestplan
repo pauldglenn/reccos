@@ -1,0 +1,31 @@
+{
+  "configurations" : [
+    {
+      "id" : "16571A44-FD60-46AB-A862-891C5A0B2F22",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:reccos.xcodeproj",
+        "identifier" : "C85C6CDB2DC04F6A00E26834",
+        "name" : "reccosUITests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:reccos.xcodeproj",
+        "identifier" : "C85C6CD12DC04F6A00E26834",
+        "name" : "reccosTests"
+      }
+    }
+  ],
+  "version" : 1
+}
